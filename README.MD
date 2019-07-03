@@ -1,10 +1,12 @@
 # Open-Source Toast
 
+![toast](https://img.shields.io/badge/toast-toast-yellow.svg) 
+![toast](https://img.shields.io/badge/toast-toast-yellow.svg?style=social)
+
 ## This is split into parts
 
 1. [Making](#Making)
 2. [Toasting](#Toasting)
-
 
 
 
